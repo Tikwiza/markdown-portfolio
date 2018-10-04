@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Tikwiza Nkowane, Getting to know GitHub.
