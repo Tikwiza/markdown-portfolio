@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. *Excellent communicator*
+2. _Fast learner_
+3. **Keen eye for detail**
+4. **_Python, Machine Learning_**
+5. *Ability to communicate in many languages*
